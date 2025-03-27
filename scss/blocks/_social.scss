@@ -2,7 +2,7 @@
 
     h2 {
         text-align: center;
-        margin-top: 150px;
+        margin-top: 80px;
         font-family: "Roboto", sans-serif;
         font-weight: 600;
         font-style: normal;
@@ -12,9 +12,11 @@
     p {
         margin-bottom: 100px;
         font-family: "Roboto", sans-serif;
-        font-weight: 400;
+        font-weight: 300;
         font-style: normal;
         font-size: 18px;
+        text-align: center;
+        line-height: 25px;
     }
 
     &__descr {
